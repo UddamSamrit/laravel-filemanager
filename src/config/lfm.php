@@ -17,6 +17,7 @@ return [
 
     'use_package_routes'       => true,
 
+    
     /*
     |--------------------------------------------------------------------------
     | Shared folder / Private folder
